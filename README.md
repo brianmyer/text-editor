@@ -20,6 +20,8 @@ Feel free to install the app on your device!
 
 ## Usage
 
+![Alt text](<assets/images/Screenshot 2023-09-20 at 10.00.23 AM.png>)
+
 Store any text you may want to recall at a later date with JATE.
 
 ## License
